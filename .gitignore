@@ -1,0 +1,10 @@
+# Hoff data and generated files
+/Hoff/
+/Hoff.zip
+/hoff_pilot.zip
+/hoff_output/
+/hoff_*.csv
+
+# Python
+/.venv/
+__pycache__/
